@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E114BBE21D2D0BD5000919A5 /* NewPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = E114BBE11D2D0BD5000919A5 /* NewPlayerView.m */; };
-		E1815C4D1D4866D200923575 /* test2.zip in Resources */ = {isa = PBXBuildFile; fileRef = E1815C4C1D4866D200923575 /* test2.zip */; };
 		E1DC5BE31D3CBE8400C17B5D /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1DC5BE21D3CBE8400C17B5D /* FirstViewController.m */; };
 		E1E38B741D24CA54009CAB73 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E1E38B731D24CA54009CAB73 /* main.m */; };
 		E1E38B771D24CA54009CAB73 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E1E38B761D24CA54009CAB73 /* AppDelegate.m */; };
@@ -40,7 +39,6 @@
 /* Begin PBXFileReference section */
 		E114BBE01D2D0BD5000919A5 /* NewPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewPlayerView.h; sourceTree = "<group>"; };
 		E114BBE11D2D0BD5000919A5 /* NewPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewPlayerView.m; sourceTree = "<group>"; };
-		E1815C4C1D4866D200923575 /* test2.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = test2.zip; sourceTree = "<group>"; };
 		E1DC5BE11D3CBE8400C17B5D /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		E1DC5BE21D3CBE8400C17B5D /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		E1E38B6F1D24CA54009CAB73 /* test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test2.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -123,7 +121,6 @@
 				E1E38B781D24CA54009CAB73 /* ViewController.h */,
 				E1E38B791D24CA54009CAB73 /* ViewController.m */,
 				E1E38B7B1D24CA54009CAB73 /* Main.storyboard */,
-				E1815C4C1D4866D200923575 /* test2.zip */,
 				E1E38B801D24CA54009CAB73 /* LaunchScreen.storyboard */,
 				E1E38B831D24CA54009CAB73 /* Info.plist */,
 				E1E38B721D24CA54009CAB73 /* Supporting Files */,
@@ -267,7 +264,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1815C4D1D4866D200923575 /* test2.zip in Resources */,
 				E1E38B821D24CA54009CAB73 /* LaunchScreen.storyboard in Resources */,
 				E1E38B7D1D24CA54009CAB73 /* Main.storyboard in Resources */,
 			);

@@ -32,12 +32,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSString *newPath=[[NSBundle mainBundle] pathForResource:@"9533522808.f4v.mp4" ofType:@""];
-    
-    [self.view setBackgroundColor:[UIColor redColor]];
-    
-    NSURL *url = [[NSURL alloc]initWithString:[NSString stringWithFormat:@"file:///%@",newPath]];
-    NSLog(@"url=%@\n",url);
+//    NSString *newPath=[[NSBundle mainBundle] pathForResource:@"9533522808.f4v.mp4" ofType:@""];
+//    
+//    [self.view setBackgroundColor:[UIColor redColor]];
+//    
+//    NSURL *url = [[NSURL alloc]initWithString:[NSString stringWithFormat:@"file:///%@",newPath]];
+//    NSLog(@"url=%@\n",url);
+    NSURL *url=[[NSURL alloc]initWithString:@"http://static.tripbe.com/videofiles/20121214/9533522808.f4v.mp4"];
     self.playerView=[[NewPlayerView alloc]initWithFillMode:@""];
     
     self.playItem=[[AVPlayerItem alloc]initWithURL:url];
