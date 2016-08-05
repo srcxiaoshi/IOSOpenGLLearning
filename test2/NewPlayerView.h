@@ -15,4 +15,6 @@
 @property (nonatomic, strong) AVPlayer *player;
 // to reload the AVPlayer
 - (instancetype)initWithFrame:(CGRect)frame;
+-(void)play;
+-(void)pause;
 @end
