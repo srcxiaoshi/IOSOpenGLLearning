@@ -60,11 +60,11 @@
     [self.playItem addOutput:self.videoOutput];
     
     self.count=0;
-    
+
 }
 -(void)clict
 {
-    
+    NSLog(@"===============\n");
 }
 -(void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary<NSString *,id> *)change context:(void *)context
 {
@@ -119,11 +119,15 @@
     {
         NSLog(@"dddddddddddddddddddd\n");
         if (_count%2==0) {
+            ViewController *vc=(ViewController *)(tt.rootViewController);
+            [vc.playerView.player pause];
             tt.frame=CGRectMake(tt.frame.origin.x, tt.frame.origin.y, 270, 150);
             _count++;
         }
         else
         {
+            ViewController *vc=(ViewController *)(tt.rootViewController);
+            [vc.playerView.player play];
             tt.frame=CGRectMake(tt.frame.origin.x, tt.frame.origin.y, 180, 100);
             _count++;
         }

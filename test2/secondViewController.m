@@ -9,6 +9,7 @@
 #import "secondViewController.h"
 #import "FirstViewController.h"
 #import "AppDelegate.h"
+#import "SquareViewController.h"
 @interface secondViewController ()
 
 @end
@@ -35,12 +36,25 @@
     btn.backgroundColor=[UIColor redColor];
     [btn addTarget:self action:@selector(clict) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
+    
+    //
+    UIButton *openglbtn=[[UIButton alloc]init];
+    openglbtn.frame=CGRectMake(100, 200, 100, 100);
+    openglbtn.backgroundColor=[UIColor blueColor];
+    [openglbtn addTarget:self action:@selector(GLclict) forControlEvents:UIControlEventTouchUpInside];
+    [self.view addSubview:openglbtn];
+    
 }
 -(void)clict
 {
     FirstViewController *tt=[[FirstViewController alloc]init];
     self.window.hidden=YES;
     [self.navigationController pushViewController:tt animated:YES];
+}
+-(void)GLclict
+{
+    SquareViewController * sq=[[SquareViewController alloc]init];
+    [self.navigationController pushViewController:sq animated:YES];
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
