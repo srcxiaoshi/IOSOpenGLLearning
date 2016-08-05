@@ -39,7 +39,7 @@
 //    NSURL *url = [[NSURL alloc]initWithString:[NSString stringWithFormat:@"file:///%@",newPath]];
 //    NSLog(@"url=%@\n",url);
     NSURL *url=[[NSURL alloc]initWithString:@"http://static.tripbe.com/videofiles/20121214/9533522808.f4v.mp4"];
-    self.playerView=[[NewPlayerView alloc]initWithFillMode:@""];
+    //self.playerView=[[NewPlayerView alloc]initWithFillMode:@""];
     
     self.playItem=[[AVPlayerItem alloc]initWithURL:url];
     [_playItem addObserver:self forKeyPath:@"status" options:NSKeyValueObservingOptionNew context:nil];

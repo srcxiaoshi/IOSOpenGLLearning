@@ -14,5 +14,5 @@
 
 @property (nonatomic, strong) AVPlayer *player;
 // to reload the AVPlayer
-- (instancetype)initWithFillMode:(NSString *)fillMode;
+- (instancetype)initWithFrame:(CGRect)frame;
 @end

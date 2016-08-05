@@ -26,16 +26,16 @@
 
 
 #pragma arguments
-- (instancetype)initWithFillMode:(NSString *)fillMode
+- (instancetype)initWithFrame:(CGRect)frame
 {
-    if (self = [super init])
+    if (self = [super initWithFrame:frame])
     {
         if (!self.player) {
             self.player=[[AVPlayer alloc]init];
         }
         //设置播放页面的大小
-        self.layer.frame = CGRectMake(0, 64, [UIScreen mainScreen].bounds.size.width, 300);
-        self.layer.backgroundColor = [UIColor cyanColor].CGColor;
+        self.layer.frame =frame;
+        self.layer.backgroundColor = [UIColor blackColor].CGColor;
         //设置播放窗口和当前视图之间的比例显示内容
         ((AVPlayerLayer*)self.layer).videoGravity = AVLayerVideoGravityResizeAspect;
         //设置播放的默认音量值

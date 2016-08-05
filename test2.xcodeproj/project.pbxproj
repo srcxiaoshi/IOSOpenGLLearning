@@ -32,6 +32,7 @@
 		E1E38B8D1D24CA54009CAB73 /* test2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = E1E38B8C1D24CA54009CAB73 /* test2Tests.m */; };
 		E1E38B981D24CA54009CAB73 /* test2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E1E38B971D24CA54009CAB73 /* test2UITests.m */; };
 		E1E38BA71D24CA66009CAB73 /* secondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1E38BA61D24CA66009CAB73 /* secondViewController.m */; };
+		E1EDA42C1D548FE900B15143 /* TableWithPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1EDA42B1D548FE900B15143 /* TableWithPlayerViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -193,6 +194,8 @@
 		E1E38B991D24CA54009CAB73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1E38BA51D24CA66009CAB73 /* secondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = secondViewController.h; sourceTree = "<group>"; };
 		E1E38BA61D24CA66009CAB73 /* secondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = secondViewController.m; sourceTree = "<group>"; };
+		E1EDA42A1D548FE900B15143 /* TableWithPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableWithPlayerViewController.h; sourceTree = "<group>"; };
+		E1EDA42B1D548FE900B15143 /* TableWithPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableWithPlayerViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -503,6 +506,8 @@
 				E114BBE11D2D0BD5000919A5 /* NewPlayerView.m */,
 				E1DC5BE11D3CBE8400C17B5D /* FirstViewController.h */,
 				E1DC5BE21D3CBE8400C17B5D /* FirstViewController.m */,
+				E1EDA42A1D548FE900B15143 /* TableWithPlayerViewController.h */,
+				E1EDA42B1D548FE900B15143 /* TableWithPlayerViewController.m */,
 			);
 			path = test2;
 			sourceTree = "<group>";
@@ -668,6 +673,7 @@
 				E1E38B7A1D24CA54009CAB73 /* ViewController.m in Sources */,
 				E1B24D661D49A539007A387E /* FFmpegIOSViewController.mm in Sources */,
 				E1E38B771D24CA54009CAB73 /* AppDelegate.m in Sources */,
+				E1EDA42C1D548FE900B15143 /* TableWithPlayerViewController.m in Sources */,
 				E114BBE21D2D0BD5000919A5 /* NewPlayerView.m in Sources */,
 				E1E38B741D24CA54009CAB73 /* main.m in Sources */,
 				E1D58EF41D48BB2B00B970FF /* SquareViewController.m in Sources */,
