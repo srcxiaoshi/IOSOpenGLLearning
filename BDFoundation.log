@@ -1,0 +1,23 @@
+BDFoundation_Release
+iphoneos9.2 + iphonesimulator9.2
+/Users/caomiao/Documents/ios-video-lib_appStore/SharedLib/Script/../Utils/BDFoundation/BDFoundation/BDFoundation.xcodeproj
+2016年 6月12日 星期日 15时36分27秒 CST
+
+MD5 (/Users/caomiao/Documents/ios-video-lib_appStore/SharedLib/Script/../Framework/BDFoundation.framework/Versions/A/BDFoundation) = 7b35f03d7327afc0a0931fd44fbc6c87
+
+Architectures in the fat file: /Users/caomiao/Documents/ios-video-lib_appStore/SharedLib/Script/../../../DerivedData/BDFoundation/20160612153608/Build/Products/Release-iphoneos/BDFoundation.framework/Versions/A/BDFoundation are: armv7 i386 arm64 
+
+Path: .
+Working Copy Root Path: /Users/caomiao/Documents/ios-video-lib_appStore
+URL: https://caomiao@svn.baidu.com/app/search/video/trunk/ios-video-lib/SharedLib/Utils/BDFoundation/BDFoundation
+Repository Root: https://caomiao@svn.baidu.com/app/search/video
+Repository UUID: c0863b73-a60a-4280-98fb-551f5ccebccc
+Revision: 214713
+Node Kind: directory
+Schedule: normal
+Last Changed Author: houjia02
+Last Changed Rev: 214671
+Last Changed Date: 2016-06-08 17:49:02 +0800 (三, 08  6 2016)
+
+?       BDFoundation.xcodeproj/project.xcworkspace
+?       BDFoundation.xcodeproj/xcuserdata

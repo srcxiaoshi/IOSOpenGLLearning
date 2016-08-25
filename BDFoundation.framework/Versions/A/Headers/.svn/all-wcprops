@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/app/search/video/!svn/ver/214720/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers
+END
+NSString+Compare.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSString+Compare.h
+END
+NSArray+Safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSArray+Safe.h
+END
+MKNetworkKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/MKNetworkKit.h
+END
+NSString+URLParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/app/search/video/!svn/ver/214720/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSString+URLParameters.h
+END
+NSData+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSData+Base64.h
+END
+VEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/VEngine.h
+END
+NSDate+RFC1123.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSDate+RFC1123.h
+END
+UIDevice+IPAddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/UIDevice+IPAddr.h
+END
+LcPrintMacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/app/search/video/!svn/ver/197443/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/LcPrintMacro.h
+END
+AsyncFileWorkItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/AsyncFileWorkItem.h
+END
+AsyncWorkItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/AsyncWorkItem.h
+END
+BDDPTelephonyNetworkUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/app/search/video/!svn/ver/201461/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/BDDPTelephonyNetworkUtility.h
+END
+BDServerTimestamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/BDServerTimestamp.h
+END
+RegexKitLite.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/RegexKitLite.h
+END
+AudioHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/app/search/video/!svn/ver/208422/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/AudioHelper.h
+END
+OrderDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/OrderDictionary.h
+END
+NSDictionary+RequestEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSDictionary+RequestEncoding.h
+END
+MKNetworkOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/MKNetworkOperation.h
+END
+NSString+MD5Addition.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSString+MD5Addition.h
+END
+NSStringEX.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/app/search/video/!svn/ver/195820/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSStringEX.h
+END
+NSString+URL.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/app/search/video/!svn/ver/203386/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSString+URL.h
+END
+AsyncSerialWorker.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/AsyncSerialWorker.h
+END
+MKNetworkEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/MKNetworkEngine.h
+END
+WMCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/WMCache.h
+END
+NSString+EasyStringDrawing.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/app/search/video/!svn/ver/210236/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSString+EasyStringDrawing.h
+END
+ehm.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/app/search/video/!svn/ver/198560/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/ehm.h
+END
+PropertyListBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/PropertyListBase.h
+END
+NSDictionary+Extensive.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/app/search/video/!svn/ver/195110/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSDictionary+Extensive.h
+END
+FileHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/FileHelper.h
+END
+NSOperationQueue+Safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/app/search/video/!svn/ver/182630/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSOperationQueue+Safe.h
+END
+BDDecrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/BDDecrypt.h
+END
+NSObject+Safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/app/search/video/!svn/ver/197812/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSObject+Safe.h
+END
+NSString+Safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSString+Safe.h
+END
+UIDevice+LowEnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/UIDevice+LowEnd.h
+END
+NSStringIsEmpty.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSStringIsEmpty.h
+END
+UIAlertView+MKNetworkKitAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/UIAlertView+MKNetworkKitAdditions.h
+END
+NSMutableDictionary+Safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSMutableDictionary+Safe.h
+END
+NSData+MD5Digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSData+MD5Digest.h
+END
+NSString+MKNetworkKitAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSString+MKNetworkKitAdditions.h
+END
+NSTimer+Safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSTimer+Safe.h
+END
+NSAlert+MKNetworkKitAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSAlert+MKNetworkKitAdditions.h
+END
+NSObject+BDProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/app/search/video/!svn/ver/200295/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSObject+BDProperty.h
+END
+Utility+LocalNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/app/search/video/!svn/ver/198982/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/Utility+LocalNotification.h
+END
+ObjCRuntimeExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/app/search/video/!svn/ver/212059/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/ObjCRuntimeExt.h
+END
+NSMutableArray+Safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSMutableArray+Safe.h
+END
+SharedLibCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/video/!svn/ver/212059/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/SharedLibCommon.h
+END
+LcPrint.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/app/search/video/!svn/ver/197399/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/LcPrint.h
+END
+VObjectInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/VObjectInterface.h
+END
+AirplayService.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/app/search/video/!svn/ver/183669/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/AirplayService.h
+END
+AsyncSerialWorker+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/AsyncSerialWorker+File.h
+END
+NSString+Decryption.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSString+Decryption.h
+END
+LcPrint+LLDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/app/search/video/!svn/ver/197399/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/LcPrint+LLDB.h
+END
+DataProfileBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/DataProfileBase.h
+END
+NSFileManager+Safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/app/search/video/!svn/ver/194983/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSFileManager+Safe.h
+END
+NSObject+EasyAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/NSObject+EasyAccess.h
+END
+UIDevice+IdentifierAddition.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/app/search/video/!svn/ver/181534/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/UIDevice+IdentifierAddition.h
+END
+UIDevice-Hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/app/search/video/!svn/ver/180671/trunk/iphoneapp/VideoIphone/SharedLib/Framework/BDFoundation.framework/Versions/A/Headers/UIDevice-Hardware.h
+END

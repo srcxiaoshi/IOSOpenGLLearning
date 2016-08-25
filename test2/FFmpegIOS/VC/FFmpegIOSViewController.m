@@ -7,7 +7,10 @@
 //
 
 #import "FFmpegIOSViewController.h"
-#include "avformat.h"
+#include <libavcodec/avcodec.h>
+#include <libavformat/avformat.h>
+#include <libavfilter/avfilter.h>
+
 @interface FFmpegIOSViewController ()
 
 @end
@@ -17,7 +20,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    self.view.backgroundColor=[UIColor whiteColor];
+    
+    
+    //测试ffmpeg
     av_register_all();
+    printf("%s",avcodec_configuration());
+    
 }
 
 - (void)didReceiveMemoryWarning {

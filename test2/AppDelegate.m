@@ -12,6 +12,7 @@
 
 #import "TableWithPlayerViewController.h"
 #import "FFmpegIOSViewController.h"
+
 @interface AppDelegate ()
 
 @end
@@ -22,8 +23,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     //TableWithPlayerViewController * viewCon=[[TableWithPlayerViewController alloc]init];
-    //ViewController *viewCon=[[ViewController alloc]init];
-    FFmpegIOSViewController *viewCon=[[FFmpegIOSViewController alloc] init];
+    ViewController *viewCon=[[ViewController alloc]init];
+    //FFmpegIOSViewController *viewCon=[[FFmpegIOSViewController alloc] init];
     UINavigationController *navc=[[UINavigationController alloc]initWithRootViewController:viewCon];
     
     self.window.rootViewController=navc;

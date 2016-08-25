@@ -8,6 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		E114BBE21D2D0BD5000919A5 /* NewPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = E114BBE11D2D0BD5000919A5 /* NewPlayerView.m */; };
+		E13A8DB31D6DB74000B593A1 /* FeedBackView.m in Sources */ = {isa = PBXBuildFile; fileRef = E13A8DB21D6DB74000B593A1 /* FeedBackView.m */; };
+		E13A8DB51D6DB89C00B593A1 /* BDFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E13A8DB41D6DB89C00B593A1 /* BDFoundation.framework */; };
+		E13A8DB71D6DC1DB00B593A1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E13A8DB61D6DC1DB00B593A1 /* Images.xcassets */; };
+		E13A8DBA1D6DC3A900B593A1 /* UIPlaceHolderTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = E13A8DB91D6DC3A900B593A1 /* UIPlaceHolderTextView.m */; };
+		E13A8DBE1D6DCB2200B593A1 /* BDFoundation.buildlog in Resources */ = {isa = PBXBuildFile; fileRef = E13A8DBB1D6DCB2200B593A1 /* BDFoundation.buildlog */; };
+		E13A8DBF1D6DCB2200B593A1 /* BDFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E13A8DBC1D6DCB2200B593A1 /* BDFoundation.framework */; };
+		E13A8DC01D6DCB2200B593A1 /* BDFoundation.log in Resources */ = {isa = PBXBuildFile; fileRef = E13A8DBD1D6DCB2200B593A1 /* BDFoundation.log */; };
 		E17BB7F81D585A9C00A2A096 /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E17BB7EE1D585A9C00A2A096 /* libavcodec.a */; };
 		E17BB7F91D585A9C00A2A096 /* libavdevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E17BB7EF1D585A9C00A2A096 /* libavdevice.a */; };
 		E17BB7FA1D585A9C00A2A096 /* libavfilter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E17BB7F01D585A9C00A2A096 /* libavfilter.a */; };
@@ -58,6 +65,15 @@
 /* Begin PBXFileReference section */
 		E114BBE01D2D0BD5000919A5 /* NewPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewPlayerView.h; sourceTree = "<group>"; };
 		E114BBE11D2D0BD5000919A5 /* NewPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewPlayerView.m; sourceTree = "<group>"; };
+		E13A8DB11D6DB74000B593A1 /* FeedBackView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeedBackView.h; sourceTree = "<group>"; };
+		E13A8DB21D6DB74000B593A1 /* FeedBackView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeedBackView.m; sourceTree = "<group>"; };
+		E13A8DB41D6DB89C00B593A1 /* BDFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BDFoundation.framework; path = test2/BDFoundation.framework; sourceTree = "<group>"; };
+		E13A8DB61D6DC1DB00B593A1 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		E13A8DB81D6DC3A900B593A1 /* UIPlaceHolderTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIPlaceHolderTextView.h; sourceTree = "<group>"; };
+		E13A8DB91D6DC3A900B593A1 /* UIPlaceHolderTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIPlaceHolderTextView.m; sourceTree = "<group>"; };
+		E13A8DBB1D6DCB2200B593A1 /* BDFoundation.buildlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BDFoundation.buildlog; sourceTree = "<group>"; };
+		E13A8DBC1D6DCB2200B593A1 /* BDFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BDFoundation.framework; sourceTree = "<group>"; };
+		E13A8DBD1D6DCB2200B593A1 /* BDFoundation.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BDFoundation.log; sourceTree = "<group>"; };
 		E17BB7881D585A9C00A2A096 /* avcodec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = avcodec.h; sourceTree = "<group>"; };
 		E17BB7891D585A9C00A2A096 /* avfft.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = avfft.h; sourceTree = "<group>"; };
 		E17BB78A1D585A9C00A2A096 /* d3d11va.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = d3d11va.h; sourceTree = "<group>"; };
@@ -205,6 +221,7 @@
 				E17BB7FD1D585A9C00A2A096 /* libfaac.a in Frameworks */,
 				E17BB8011D585A9C00A2A096 /* libx264.a in Frameworks */,
 				E1B24E681D49AFBF007A387E /* libbz2.tbd in Frameworks */,
+				E13A8DB51D6DB89C00B593A1 /* BDFoundation.framework in Frameworks */,
 				E17BB7FB1D585A9C00A2A096 /* libavformat.a in Frameworks */,
 				E17BB7FE1D585A9C00A2A096 /* libpostproc.a in Frameworks */,
 				E17BB8001D585A9C00A2A096 /* libswscale.a in Frameworks */,
@@ -212,6 +229,7 @@
 				E17BB7F91D585A9C00A2A096 /* libavdevice.a in Frameworks */,
 				E1B24E661D49AC54007A387E /* libz.1.2.5.tbd in Frameworks */,
 				E1D58EED1D48951400B970FF /* GLKit.framework in Frameworks */,
+				E13A8DBF1D6DCB2200B593A1 /* BDFoundation.framework in Frameworks */,
 				E1D58EEB1D48950800B970FF /* OpenGLES.framework in Frameworks */,
 				E17BB7F81D585A9C00A2A096 /* libavcodec.a in Frameworks */,
 				E17BB7FF1D585A9C00A2A096 /* libswresample.a in Frameworks */,
@@ -457,6 +475,10 @@
 		E1D58EEE1D48952000B970FF /* lib */ = {
 			isa = PBXGroup;
 			children = (
+				E13A8DBB1D6DCB2200B593A1 /* BDFoundation.buildlog */,
+				E13A8DBC1D6DCB2200B593A1 /* BDFoundation.framework */,
+				E13A8DBD1D6DCB2200B593A1 /* BDFoundation.log */,
+				E13A8DB41D6DB89C00B593A1 /* BDFoundation.framework */,
 				E1B24E691D49AFCC007A387E /* libiconv.2.4.0.tbd */,
 				E1B24E671D49AFBF007A387E /* libbz2.tbd */,
 				E1B24E651D49AC54007A387E /* libz.1.2.5.tbd */,
@@ -509,6 +531,11 @@
 				E1DC5BE21D3CBE8400C17B5D /* FirstViewController.m */,
 				E1EDA42A1D548FE900B15143 /* TableWithPlayerViewController.h */,
 				E1EDA42B1D548FE900B15143 /* TableWithPlayerViewController.m */,
+				E13A8DB11D6DB74000B593A1 /* FeedBackView.h */,
+				E13A8DB21D6DB74000B593A1 /* FeedBackView.m */,
+				E13A8DB81D6DC3A900B593A1 /* UIPlaceHolderTextView.h */,
+				E13A8DB91D6DC3A900B593A1 /* UIPlaceHolderTextView.m */,
+				E13A8DB61D6DC1DB00B593A1 /* Images.xcassets */,
 			);
 			path = test2;
 			sourceTree = "<group>";
@@ -606,7 +633,7 @@
 				TargetAttributes = {
 					E1E38B6E1D24CA54009CAB73 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 9RPMUQQG4N;
+						DevelopmentTeam = 48VRJTTX29;
 					};
 					E1E38B871D24CA54009CAB73 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -643,8 +670,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E13A8DB71D6DC1DB00B593A1 /* Images.xcassets in Resources */,
 				E1E38B821D24CA54009CAB73 /* LaunchScreen.storyboard in Resources */,
+				E13A8DBE1D6DCB2200B593A1 /* BDFoundation.buildlog in Resources */,
 				E1E38B7D1D24CA54009CAB73 /* Main.storyboard in Resources */,
+				E13A8DC01D6DCB2200B593A1 /* BDFoundation.log in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -677,7 +707,9 @@
 				E1EDA42C1D548FE900B15143 /* TableWithPlayerViewController.m in Sources */,
 				E114BBE21D2D0BD5000919A5 /* NewPlayerView.m in Sources */,
 				E1E38B741D24CA54009CAB73 /* main.m in Sources */,
+				E13A8DBA1D6DC3A900B593A1 /* UIPlaceHolderTextView.m in Sources */,
 				E1D58EF41D48BB2B00B970FF /* SquareViewController.m in Sources */,
+				E13A8DB31D6DB74000B593A1 /* FeedBackView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -823,9 +855,16 @@
 		E1E38B9D1D24CA54009CAB73 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/test2",
+					"$(PROJECT_DIR)",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -847,9 +886,16 @@
 		E1E38B9E1D24CA54009CAB73 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/test2",
+					"$(PROJECT_DIR)",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
